@@ -1,0 +1,1 @@
+export const BASE_URI = 'https://mvc-nodejs-rho.vercel.app/'
